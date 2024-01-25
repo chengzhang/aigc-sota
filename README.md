@@ -4,7 +4,10 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 
 # Text 2 Image 文生图 
 - MJ v6 (midjurney v6) （细节非常棒）
-- SD (stable diffusion) 
+- SD (stable diffusion)
+  - Stable Diffusion XL / SDXL
+    - SDXL Inpaint 
+  - SD LCM 
 - IP-adapter 
 
 # Text 2 vedio 文生视频 
@@ -12,7 +15,8 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 - MJ v6 + pika 
 
 # Image（+ Text） 2 Image 图生图 
-
+- Segment Anything
+- 
 
 # Image (+ Text) 2 Vedio 图生视频 
 - Gen-2
@@ -31,3 +35,7 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 - codegeex
 - 通义灵码
 - GPT PILOT
+
+# Misc 
+- ESRGAN
+- MI-GAN
