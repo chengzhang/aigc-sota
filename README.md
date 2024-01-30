@@ -30,8 +30,13 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 - wav2lip
 - minimax model 
 
-# Text 2 Code
--copilot 
+# Text 2 Code 
+- Gemini Pro（HumanEval 得分 69.4）
+- Code Llama (Meta) （HumanEval 得分 67.8）
+- GPT-4 （HumanEval 得分 68.2）
+- CodeGen-16B-Mono（HumanEval 得分 29.3）
+- StarCoder （HumanEval 得分 40.1）
+- copilot 
 - codegeex
 - 通义灵码
 - GPT PILOT
