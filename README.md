@@ -28,7 +28,11 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 ## lip align 嘴型对齐 
 - heygen 
 - wav2lip
-- minimax model 
+- minimax model
+
+# Text 2 Speech
+## TTS 
+- valle-e 
 
 # Text 2 Code 
 - Gemini Pro（HumanEval 得分 69.4）
