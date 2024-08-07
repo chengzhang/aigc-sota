@@ -50,6 +50,13 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 - 通义灵码
 - GPT PILOT
 
+# 3D gen 
+- NeuSDFusion
+- GET3D-SDF
+- MeshDiffusion-Mesh
+- LION-Point Cloud
+- 3DQD-TSDF  
+
 # Misc 
 - ESRGAN
 - MI-GAN
