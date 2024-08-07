@@ -7,12 +7,15 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 - SD (stable diffusion)
   - Stable Diffusion XL / SDXL
     - SDXL Inpaint 
-  - SD LCM 
+  - SD LCM
+- DALLE 3 
 - IP-adapter 
+- Flux.1 
+- CogVideoX 
 
 # Text 2 vedio 文生视频 
 - SDXL + DEPTH + refference 
-- MJ v6 + pika 
+- MJ v6 + pika
 
 # Image（+ Text） 2 Image 图生图 
 - Segment Anything
