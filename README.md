@@ -16,7 +16,9 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 
 # Image（+ Text） 2 Image 图生图 
 - Segment Anything
-- 
+- CuteYou2.0 输入人物照片，输出可爱版本的人物照片
+- CuteMe 美图秀秀版的 CuteYou
+- 秒变运动星 妙鸭相机 
 
 # Image (+ Text) 2 Vedio 图生视频 
 - Gen-2
