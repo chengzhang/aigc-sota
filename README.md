@@ -29,6 +29,8 @@ record best practise of AIGC platforms, tools, models, methods, and so on.
 - pika 
 - vedio controlnet
 - comfyUI
+- Runway Gen-3 Alpha
+- Dream Machine
 
 ## lip align 嘴型对齐 
 - heygen 
